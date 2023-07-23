@@ -1,9 +1,19 @@
-### Hi there, I'm JasperSon 👋
+### Hi there, I'm Seokjin
+Developer
 
-[![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokjinSon&show_icons=true&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
+더 나은 백엔드 개발자가 되기 위해 활동하고 있으며
+설계와 객체 지향적 코드 작성에 관심이 많습니다.
+
+⦁ Email : tnh3113@gmail.com
+⦁ Blog : https://jsondiary.tistory.com/
+⦁ github : https://github.com/handseokjin
+
+
+
 
 <!-- 
 **SeokjinSon/SeokjinSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Jasper's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeokjinSon&show_icons=true&theme=dracula )](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 f
@@ -16,3 +26,4 @@ f
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
