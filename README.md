@@ -1,10 +1,10 @@
 Developer
 
 더 나은 백엔드 개발자가 되기 위해 활동하고 있으며 <br/>
-설계와 객체 지향적 코드 작성에 관심이 많습니다.
+프로그램 설계와 객체 지향적 코드 작성에 관심이 많습니다.
 
 ⦁ Email : tnh3113@gmail.com <br/>
-⦁ Blog : https://jsondiary.tistory.com/ <br/>
+⦁ Blog : https://jsondiary.tistory.com <br/>
 ⦁ github : https://github.com/handseokjin <br/>
 
 
