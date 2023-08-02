@@ -4,10 +4,11 @@ Developer
 프로그램 설계와 객체 지향적 코드 작성에 관심이 많습니다.
 
 ⦁ Email : tnh3113@gmail.com <br/>
+⦁ github : https://github.com/handseokjin <br/>
 <!-- 
 ⦁ Blog : https://jsondiary.tistory.com <br/>
 -->
-⦁ github : https://github.com/handseokjin <br/>
+
 
 
 
