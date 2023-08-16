@@ -5,9 +5,8 @@ Developer
 
 ⦁ Email : tnh3113@gmail.com <br/>
 ⦁ github : https://github.com/handseokjin <br/>
-<!-- 
 ⦁ Blog : https://jsondiary.tistory.com <br/>
--->
+
 
 
 
