@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HI,%20I'm%20Seokjin&fontSize=50" /><br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=HI,%20I'm%20Seokjin&fontSize=50" /><br/>
   
   "Developer"
   
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
   
-  <br/><br/>
+  <br/>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 </div>
