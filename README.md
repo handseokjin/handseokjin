@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hi,%20I'm%20Seokjin&fontSize=50" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Son%20Seokjin&fontSize=50" /><br/>
   
   "Developer"
   
